@@ -12,6 +12,15 @@ including revenue, profit, discount, customer segments, and regional performance
 ## Tools Used
 * Power BI
 * DAX: DIVIDE, CALCULATE, SWITCH  
+- Revenue 
+<img width="313" height="43" alt="image" src="https://github.com/user-attachments/assets/3d06c01b-f92e-4c38-b8e8-444a6cf9324b" />
+<img width="346" height="42" alt="image" src="https://github.com/user-attachments/assets/9f4f65bc-5b03-4971-8b82-0e1596e91a0b" />
+<img width="758" height="40" alt="image" src="https://github.com/user-attachments/assets/5916ac63-eb70-44b4-adbd-ee826ee01f67" />
+- YoY Growth (Revenue & Profit)
+<img width="774" height="335" alt="image" src="https://github.com/user-attachments/assets/6296b72b-8014-4f43-9d73-b1d0029a3261" />
+<img width="806" height="331" alt="image" src="https://github.com/user-attachments/assets/6f5d8228-f984-4c8d-97b0-c56d248f0c2c" />
+- Loss Orders% 
+<img width="600" height="41" alt="image" src="https://github.com/user-attachments/assets/67c75fb7-3a23-4201-b530-6559f33930d3" />
 * Data Cleaning
 - Set correct data types
 - Remove Duplicates
@@ -21,11 +30,11 @@ including revenue, profit, discount, customer segments, and regional performance
 
 ## Key KPIs
 1. EXECUTIVE OVERVIEW
-- Revenue
-- Profit
-- Profit Margin
-- Total Orders
-- Loss Orders (%)
+- Revenue 
+- Profit 
+- Profit Margin 
+- Total Orders 
+- Loss Orders% 
 - YoY Growth (Revenue & Profit)
 
 2. PROFIT & DISCOUNT ANALYSIS
