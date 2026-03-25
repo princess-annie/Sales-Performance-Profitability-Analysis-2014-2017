@@ -1,0 +1,52 @@
+## Project Title
+Sales Performance & Profitability Analysis (2014–2017)
+
+## Business Objective
+To identify revenue drivers, uncover profitability gaps, analyze the impact of discounts on profit, 
+and understand customer behavior across segments and regions.
+
+## Dataset Overview
+The dataset analyzes 5,000+ transactional records from the Global Superstore dataset (2014-2017).
+including revenue, profit, discount, customer segments, and regional performance and this dataset was gotten from Kaggle
+
+## Tools Used
+Power BI
+DAX: DIVIDE, CALCULATE, SWITCH
+Data Cleaning
+- Set correct data types
+- Remove Duplicates
+- Remove Unwanted Columns
+- Round Up numerical columns 
+- added extra columns for analysis
+
+## Key KPIs
+1. Executive Overview
+- Revenue
+- Profit
+- Profit Margin
+- Total Orders
+- Loss Orders (%)
+- YoY Growth (Revenue & Profit)
+
+2. Profit & Discount Analysis
+- Profit
+- Profit Margin
+- Average Discount
+- Loss Orders (%)
+
+3. Customer & Segment Analysis
+- Revenue
+- Profit
+- Unique Customers
+
+ ## Key Insights 
+* Overall Trend (2014–2017)
+- Revenue shows consistent growth across the years, with a peak in 2017
+- while profit increased but at a slower rate than revenue and profit margin is not consistent, showing inefficiencies 
+in cost of product or pricing strategy, (heavy and low discounting)
+
+
+
+
+
+
