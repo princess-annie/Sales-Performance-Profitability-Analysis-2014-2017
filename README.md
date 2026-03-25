@@ -11,11 +11,7 @@ including revenue, profit, discount, customer segments, and regional performance
 
 ## Tools Used
 * Power BI
-* DAX: 
-- DIVIDE
-- CALCULATE
-- SWITCH
-  
+* DAX: DIVIDE, CALCULATE, SWITCH  
 * Data Cleaning
 - Set correct data types
 - Remove Duplicates
