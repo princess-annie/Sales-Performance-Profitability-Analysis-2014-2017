@@ -10,9 +10,13 @@ The dataset analyzes 5,000+ transactional records from the Global Superstore dat
 including revenue, profit, discount, customer segments, and regional performance and this dataset was gotten from Kaggle
 
 ## Tools Used
-Power BI
-DAX: DIVIDE, CALCULATE, SWITCH
-Data Cleaning
+* Power BI
+* DAX: 
+- DIVIDE
+- CALCULATE
+- SWITCH
+  
+* Data Cleaning
 - Set correct data types
 - Remove Duplicates
 - Remove Unwanted Columns
@@ -20,7 +24,7 @@ Data Cleaning
 - added extra columns for analysis
 
 ## Key KPIs
-1. Executive Overview
+1. EXECUTIVE OVERVIEW
 - Revenue
 - Profit
 - Profit Margin
@@ -28,26 +32,26 @@ Data Cleaning
 - Loss Orders (%)
 - YoY Growth (Revenue & Profit)
 
-2. Profit & Discount Analysis
+2. PROFIT & DISCOUNT ANALYSIS
 - Profit
 - Profit Margin
 - Average Discount
 - Loss Orders(%)
 
-3. Customer & Segment Analysis
+3. CUSTOMER & SEGMENT ANALYSIS
 - Revenue
 - Profit
 - Unique Customers
 
  ## Key Insights 
-* Overall Trend (2014–2017)
+OVERALL TREND (2014–2017)
 - Revenue shows consistent growth across the years, with a peak in 2017
 - while profit increased but at a slower rate than revenue and profit margin is not consistent, showing inefficiencies 
 in cost of product or pricing strategy, (heavy and low discounting)
 <img width="729" height="222" alt="Screenshot 2026-03-25 172444" src="https://github.com/user-attachments/assets/bc16a989-dc74-4915-814a-7a4050ac5124" />
 <img width="720" height="222" alt="Screenshot 2026-03-25 173443" src="https://github.com/user-attachments/assets/6a9773b2-831c-4bb2-a3a6-7e812832c5f9" />
 
-* 2017 Executive Insights
+2017 EXECUTIVE INSIGHTS
 - Revenue grew by +20.4% YoY, showing business is growing,
 - Profit increased by +14.2%, but it can't be compared with the growth of revenue
 - 2017 had the highest orders of 1687 with 37% of orders which is a major concern
@@ -55,13 +59,13 @@ in cost of product or pricing strategy, (heavy and low discounting)
 - Technology category drives the highest revenue likewise the west region
 <img width="1236" height="709" alt="image" src="https://github.com/user-attachments/assets/410ed415-ffa4-4e2d-9522-60d28689e41b" />
 
-* Profit & Discount Insights
+* PROFIT & DISCOUNT ANALYSIS
 - With Avg discount of  15.6%, Certain sub-categories (e.g., Tables, Machines) are consistently unprofitable
 - Higher discount rates significantly reduce profit
 - Central and South Regions show losses strongly linked to aggressive discounting
 <img width="1241" height="707" alt="image" src="https://github.com/user-attachments/assets/7aeeff3b-170b-44fa-8e88-5c86c0eb74e2" />
 
-* Customer & Segment Insights
+* CUSTOMER & SEGMENT ANALYSIS
 - Top 10 customers contributes a large portion of revenue, but note; 
 - Not all high-revenue customers are high-profit customers
 - Consumer segment leads in revenue, but profitability varies
