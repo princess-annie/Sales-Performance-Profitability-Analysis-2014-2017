@@ -86,5 +86,6 @@ in cost of product or pricing strategy, (heavy and low discounting)
 - work on pricing strategy in regions that are making loss
 - Target profitable customer segments for growth
 
-- FOR MORE INSIGHTS, READ MY ARTICLE ON MEDIUM
+## FOR MORE INSIGHTS
+[Read the full article on Medium](https://princessjames563.medium.com/introduction-every-business-or-stores-would-want-to-know-if-sales-and-profit-is-growing-or-419ef5271c2d)
 
